@@ -1,0 +1,7 @@
+*easybcd //create boot
+*vmware
+*yjhost
+*isoworkshop.exe //create dvd
+*grub4dos //install and editor grub4
+*ntbootautofix
+*usbboot //turn usb to hdd
